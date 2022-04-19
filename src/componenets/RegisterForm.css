@@ -1,0 +1,25 @@
+/*Adding Css to Registration from.js file*/
+.registrationForm{
+    width: 500px;
+    height: 60vh;
+    border: 1px solid black;
+    margin: 20px;
+    background-color: #212529;
+    color: aliceblue;
+    
+}
+
+#contact-form{
+    padding: 5px;
+    
+}
+
+.form-group {
+    padding: 10px;
+    position: relative;
+    left: 0px;
+}
+
+.form-group label{
+    margin-right: 5px ;
+}
